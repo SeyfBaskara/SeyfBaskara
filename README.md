@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 I'm Seyfettin Baskara</h1>
-<p align="left">I'm full-stack developer fascinated by the endless possibilities of software development and am constantly driven to learn and improve my skills in order to create the best possible solutions.</>
+<p align="left">I'm full-stack developer fascinated by the endless possibilities of software development, and I'm continuously motivated to learn and improve my skills to create the best possible solutions.</>
 
 - 🌱 I’m currently learning **Golang, Vuejs and Aws service**
 
